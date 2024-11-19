@@ -43,3 +43,9 @@ hr {
   font-size: 3.5em;
   opacity: 0.5;
 }
+footer {
+    clear: both;
+    position: relative;
+    height: 200px;
+    margin-top: -200px;
+}
