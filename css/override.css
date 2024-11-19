@@ -1,6 +1,6 @@
 hr {
-  margin-top: 30px;
-  margin-bottom: 20px;
+  margin-top: 40px;
+  margin-bottom: 30px;
 }
 
 /* Post navigation links */
@@ -29,17 +29,17 @@ hr {
 }
 
 .post_navi .nav_prev .post_navi-arrow {
-  left: 0;
+  left: 1;
 }
 
 .post_navi .nav_next .post_navi-arrow {
-  right: 0;
+  right: 1;
 }
 
 .post_navi .post_navi-arrow {
   position: absolute;
   top: 50%;
-  transform: translateY(-50%);
-  font-size: 2.5em;
+  transform: translateY(-70%);
+  font-size: 3.5em;
   opacity: 0.3;
 }
